@@ -1,0 +1,40 @@
+Project Start Date: 21 November 2023
+Project End Date: 
+
+Technology used: Python | Django | sqlite3 | HTML | TailwindCSS
+
+Project Name: ideal_bank
+
+Create superuser:
+username: idealbank
+email: idealbank@gmail.com
+password: Bank_123@Ideal
+
+
+users: 
+username: amir 
+password: 12345@01
+First name: Amir
+Last name: Khan
+gmail: amir_khan@gmail.com
+
+username: salman
+password: 12345@02
+First name: Salman
+Last name: Khan
+gmail: salman_khan@gmail.com
+
+username: katrina
+password: 12345@03
+First name: Katrina
+Last name: Kaif
+gmail: katrina_kaif@gmail.com
+
+Project Apps Name: accounts - login, logout, registration
+
+
+IDEAL_BANK
+     |----account
+                |---------models.py
+                                  |------------class: UserBankAccount, UserAddress 
+
